@@ -17,4 +17,4 @@ This repository is the starter code for _all_ Udacity students. Therefore, we mo
 
 ## Link to repository
 
-https://github.com/danielcoker/danielcoker.github.io
+https://danielcoker.github.io/
